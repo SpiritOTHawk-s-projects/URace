@@ -16,7 +16,7 @@ This game optimized for Windows and Linux.
 Soon...
 
 # Project site
-[Github pages](urace.wlorigin.cf)
+[Github pages](https://urace.wlorigin.cf/)
 
 # Used assets from Unreal Engine store
 [Sound Phenomenon Fantasy Orchestra](https://www.unrealengine.com/marketplace/en-US/product/fantasy-orchestral-music)
