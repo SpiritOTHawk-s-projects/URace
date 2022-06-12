@@ -19,4 +19,8 @@ Soon...
 Soon...
 
 # Used assets from Unreal Engine store
-Soon...
+[Sound Phenomenon Fantasy Orchestra](https://www.unrealengine.com/marketplace/en-US/product/fantasy-orchestral-music)
+[tropical Vegetation: Banana Plants](https://www.unrealengine.com/marketplace/en-US/product/banana-plants)
+[tropical Vegetation: Pandanus Plants](https://www.unrealengine.com/marketplace/en-US/product/tropical-vegetation-pandanus-plants)
+[tropical Vegetation: Ground Plants](https://www.unrealengine.com/marketplace/en-US/product/tropical-vegetation-ground-plants)
+[Starter content]()
