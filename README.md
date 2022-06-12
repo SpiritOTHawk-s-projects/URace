@@ -11,3 +11,12 @@ This game optimized for Windows and Linux.
 | CPU | dual core cpu | quad core cpu |
 | Ram | 8 GB | 16 GB |
 | Video memory | 2 GB | 4 GB |
+
+# Screenshots
+Soon...
+
+# Project site
+Soon...
+
+# Used assets from Unreal Engine store
+Soon...
